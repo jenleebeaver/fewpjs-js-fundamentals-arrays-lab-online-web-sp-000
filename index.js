@@ -20,3 +20,4 @@ removeLast.pop()
 //4
 cost removeFirst = pet
 removeFirst.shift()
+//.shift() removes first element of array. "Shifts over"
