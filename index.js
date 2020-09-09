@@ -18,6 +18,6 @@ removeLast.pop()
 //.pop() removes last element of the array. "pops off"
 
 //4
-cost removeFirst = pet
+const removeFirst = pet
 removeFirst.shift()
 //.shift() removes first element of array. "Shifts over"
