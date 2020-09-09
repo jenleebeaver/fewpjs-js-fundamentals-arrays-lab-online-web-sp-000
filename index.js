@@ -10,3 +10,4 @@ console.log(append)
 //2
 const prepend = pets
 prepend.unshift('Odie')
+//unshift adds element to the beginning of the array. Literally prepends array.
