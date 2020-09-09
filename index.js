@@ -18,5 +18,5 @@ removeLast.pop()
 //.pop() removes last element of the array. "pops off"
 
 //4
-cost removeFirst = pet 
+cost removeFirst = pet
 removeFirst.shift()
