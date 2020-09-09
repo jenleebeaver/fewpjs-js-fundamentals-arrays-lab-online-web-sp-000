@@ -5,3 +5,4 @@ const pets = ['Milo', 'Otis', 'Garfield']
 const append = pets
 append.push('Odie')
 console.log(append)
+//push method literally means to "append" or add to the end of the array 
