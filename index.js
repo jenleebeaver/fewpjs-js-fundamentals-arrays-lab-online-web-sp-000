@@ -15,3 +15,4 @@ prepend.unshift('Odie')
 //3
 const removeLast = pets
 removeLast.pop()
+//.pop() removes last element of the array. "pops off"
