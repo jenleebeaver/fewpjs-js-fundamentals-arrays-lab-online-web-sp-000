@@ -13,5 +13,5 @@ prepend.unshift('Odie')
 //unshift adds element to the beginning of the array. Literally prepends array.
 
 //3
-const removeLast = pets 
+const removeLast = pets
 removeLast.pop()
